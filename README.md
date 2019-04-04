@@ -1,6 +1,6 @@
 # Adafruit Prototyping Pi Plate
 
-<a href="http://www.adafruit.com/products/801"><img src="assets/image.jpg?raw=true" width="500px"></a>
+<a href="http://www.adafruit.com/products/801"><img src="assets/image.jpg?raw=true" width="500px"><br/>Click here to purchase one from the Adafruit shop</a>
 
 These are the Eagle CAD files for the Adafruit Prototyping Pi Plate.
 
